@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(128, 32, 0);
+
+}
+table,th,td{
+    border: solid green;
+    border-collapse: collapse;
+}
+th,td{
+  
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+   
+}
+table{
+    border-spacing: 30px;
+    /* background-color: chartreuse; */
+
+}
+th{
+    font-size: larger;
+}
+  {
+    
+}
